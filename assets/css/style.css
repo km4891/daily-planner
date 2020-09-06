@@ -69,3 +69,12 @@ textarea{
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
+
+.container {
+  
+  border: 2px solid black;
+}
+
+.timeblock {
+  border-bottom: 1px solid black;
+}
