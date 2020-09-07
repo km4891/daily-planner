@@ -4,9 +4,9 @@
 This is a simple daily planner. It color codes the times based on past, present and future. Once an input is saved it will stay there until edited or deleted from local storage.
 
 ## Libraries
-[Moment.js](https://momentjs.com/)
-[jQuery](https://jquery.com/)
-[Bootstrap](https://getbootstrap.com/)
+* [Moment.js](https://momentjs.com/)
+* [jQuery](https://jquery.com/)
+* [Bootstrap](https://getbootstrap.com/)
 
 
 
