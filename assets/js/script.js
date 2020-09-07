@@ -17,7 +17,7 @@ $("#currentDay").text(today);
     var $text4PM = $("#text4PM");
     var $text5PM = $("#text5PM");
 
-
+    //color codes times to past, present or future
     $("textarea").each(function () {
         var name = parseInt($(this).attr("name"));
         if (name < now) {
