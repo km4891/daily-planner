@@ -40,6 +40,7 @@ textarea{
   background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
+  justify-content: center;
 }
 
 .past {
@@ -72,9 +73,10 @@ textarea{
 
 .container {
   
-  border: 2px solid black;
+  border-top: 1px dashed black;
+
 }
 
 .timeblock {
-  border-bottom: 1px solid black;
+  border-bottom: 1px dashed black;
 }
